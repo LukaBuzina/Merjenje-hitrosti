@@ -1,0 +1,2 @@
+# Merjenje-hitrosti
+Projekt deluje tako, da je senzor na arduinu vezan na analog input A1. Ko ga zasučemo s pomočjo kode to izračuna in pretvori v hitrost, ki se izpiše na LCD zaslonu, ki je vezan na arduino in potenciometer. 
